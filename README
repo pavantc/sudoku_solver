@@ -1,0 +1,4 @@
+Sudoku solver in C.
+User to feed in the puzzle a row at a time. Each row should be composed of either digits from 1 to 9 (inclusive) or a '-' to
+indicate a blank square. Any other character entered will result in an error message and a request to re-enter the row.
+A repetition of digits will also be flagged as an error and the row needs to be re-entered.
